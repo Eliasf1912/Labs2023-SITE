@@ -24,7 +24,7 @@ export const Footer = () => {
             <FaTwitter className="twitters iconf"/>
             <FaFacebookSquare className="fbs iconf"/>
         </article>
-        <p>&copy;2021 Nadine Coelho | All Rights Reserved</p>
+        <p>&copy;2023 Ecolem_LAB201 | All Rights Reserved</p>
   </footer>
   );
 };
