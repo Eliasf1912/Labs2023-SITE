@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Labs2023-SITE/static/css/main.6fb57be1.css",
+    "main.js": "/Labs2023-SITE/static/js/main.4f047fe5.js",
+    "static/media/img1.png": "/Labs2023-SITE/static/media/img1.a928c1de0048d5eb0842.png",
+    "static/media/Golden ticket.png": "/Labs2023-SITE/static/media/Golden ticket.26723a9120217fd3d67a.png",
+    "static/media/img2.png": "/Labs2023-SITE/static/media/img2.b3adadcab113ed549a99.png",
+    "static/media/cover3.png": "/Labs2023-SITE/static/media/cover3.bccfa75bb7e5af2a86d9.png",
+    "static/media/img3.png": "/Labs2023-SITE/static/media/img3.1557e9d9ee2931569b60.png",
+    "static/media/pink trou.png": "/Labs2023-SITE/static/media/pink trou.42a0bd0a6ebb3abbbe9e.png",
+    "static/media/pinkPP.jpg": "/Labs2023-SITE/static/media/pinkPP.adcfea9c65bf9c5ae70e.jpg",
+    "static/media/pinkcovid.jpg": "/Labs2023-SITE/static/media/pinkcovid.761b58c6b2d7029dc75b.jpg",
+    "static/media/pink iheart radio.jpg": "/Labs2023-SITE/static/media/pink iheart radio.869417bd67fdee41477a.jpg",
+    "static/media/logofinalblanc.png": "/Labs2023-SITE/static/media/logofinalblanc.56fbb3aa7ed08131c9da.png",
+    "index.html": "/Labs2023-SITE/index.html",
+    "static/media/blob button.svg": "/Labs2023-SITE/static/media/blob button.effb0bc2087732e94878.svg",
+    "main.6fb57be1.css.map": "/Labs2023-SITE/static/css/main.6fb57be1.css.map",
+    "main.4f047fe5.js.map": "/Labs2023-SITE/static/js/main.4f047fe5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6fb57be1.css",
+    "static/js/main.4f047fe5.js"
+  ]
+}
